@@ -1,0 +1,3 @@
+static/pages/assets
+!static/pages/assets/.gitkeep
+node_modules
